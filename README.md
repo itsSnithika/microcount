@@ -47,7 +47,10 @@
 - 🟦 **SQLite / Local DB** – Metadata & species storage  
 - 🔄 **Flower / PySyft** – Federated learning integration (optional)
 
- 
+---
+## 📊 Flowchart
+<img width="2061" height="2456" alt="flowchartsih25" src="https://github.com/user-attachments/assets/09e788e2-87e2-4f5a-8827-483f047ed172" />
+
 
 
 
