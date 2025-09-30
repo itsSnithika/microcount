@@ -49,7 +49,8 @@
 
 ---
 ## 📊 Flowchart
-<img width="2061" height="2456" alt="flowchartsih25" src="https://github.com/user-attachments/assets/09e788e2-87e2-4f5a-8827-483f047ed172" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/b58fae81-66d0-4f07-b0a8-7eb483f2976c" />
+
 
 
 
